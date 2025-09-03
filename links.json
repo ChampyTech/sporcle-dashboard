@@ -37,6 +37,54 @@
             {
                 "label": "Entertainment quizzes (private)",
                 "url": "https://www.sporcle.com/create/private/?category=2"
+            },
+            {
+                "label": "Gaming quizzes (contributed)",
+                "url": "https://www.sporcle.com/create/contributed/?category=13"
+            },
+            {
+                "label": "Gaming quizzes (published)",
+                "url": "https://www.sporcle.com/create/published/?category=13"
+            },
+            {
+                "label": "Gaming quizzes (drafts)",
+                "url": "https://www.sporcle.com/create/drafts/?category=13"
+            },
+            {
+                "label": "Gaming quizzes (private)",
+                "url": "https://www.sporcle.com/create/private/?category=13"
+            },
+            {
+                "label": "Geography quizzes (contributed)",
+                "url": "https://www.sporcle.com/create/contributed/?category=1"
+            },
+            {
+                "label": "Geography quizzes (published)",
+                "url": "https://www.sporcle.com/create/published/?category=1"
+            },
+            {
+                "label": "Geography quizzes (drafts)",
+                "url": "https://www.sporcle.com/create/drafts/?category=1"
+            },
+            {
+                "label": "Geography quizzes (private)",
+                "url": "https://www.sporcle.com/create/private/?category=1"
+            },
+            {
+                "label": "History quizzes (contributed)",
+                "url": "https://www.sporcle.com/create/contributed/?category=4"
+            },
+            {
+                "label": "History quizzes (published)",
+                "url": "https://www.sporcle.com/create/published/?category=4"
+            },
+            {
+                "label": "History quizzes (drafts)",
+                "url": "https://www.sporcle.com/create/drafts/?category=4"
+            },
+            {
+                "label": "History quizzes (private)",
+                "url": "https://www.sporcle.com/create/private/?category=4"
             }
         ]
     }
