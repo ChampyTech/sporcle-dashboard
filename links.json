@@ -85,6 +85,38 @@
             {
                 "label": "History quizzes (private)",
                 "url": "https://www.sporcle.com/create/private/?category=4"
+            },
+            {
+                "label": "Holiday quizzes (contributed)",
+                "url": "https://www.sporcle.com/create/contributed/?category=15"
+            },
+            {
+                "label": "Holiday quizzes (published)",
+                "url": "https://www.sporcle.com/create/published/?category=15"
+            },
+            {
+                "label": "Holiday quizzes (drafts)",
+                "url": "https://www.sporcle.com/create/drafts/?category=15"
+            },
+            {
+                "label": "Holiday quizzes (private)",
+                "url": "https://www.sporcle.com/create/private/?category=15"
+            },
+            {
+                "label": "Just For Fun quizzes (contributed)",
+                "url": "https://www.sporcle.com/create/contributed/?category=8"
+            },
+            {
+                "label": "Just For Fun quizzes (published)",
+                "url": "https://www.sporcle.com/create/published/?category=8"
+            },
+            {
+                "label": "Just For Fun quizzes (drafts)",
+                "url": "https://www.sporcle.com/create/drafts/?category=8"
+            },
+            {
+                "label": "Just For Fun quizzes (private)",
+                "url": "https://www.sporcle.com/create/private/?category=8"
             }
         ]
     }
