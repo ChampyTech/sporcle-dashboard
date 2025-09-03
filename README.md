@@ -11,7 +11,7 @@ A collection of useful and direct links to help you explore and manage your Spor
 
 ## 📋 How to use
 
-Simply enter your Sporcle username and instantly get access to all your profile-related links!
+Just enter your username and you will get all your Sporcle profile links!
 
 ## 🙏 Contributing
 
