@@ -7,7 +7,7 @@
 
 [🔗 Visit website](https://champytech.github.io/sporcle-dashboard/)
 
-A collection of useful and direct links to help you explore and manage your Sporcle profile more easily. All links point to specific sections of your Sporcle account — just replace the username with yours.
+A collection of useful links to help you view and manage your Sporcle profile more easily. All links are direct and point to specific sections of your Sporcle profile — just replace the username with yours.
 
 ## 📋 How to use
 
