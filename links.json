@@ -1,14 +1,42 @@
 [
     {
-        "title": "Quiz Creation",
+        "title": "Quiz Management Dashboard",
         "links": [
             {
                 "label": "Quiz management dashboard",
-                "url": "https://www.sporcle.com/create/"
+                "url": "https://www.sporcle.com/create"
             },
             {
                 "label": "Quizzes (contributed)",
-                "url": "https://www.sporcle.com/create/contributed/"
+                "url": "https://www.sporcle.com/create/contributed"
+            },
+            {
+                "label": "Quizzes (published)",
+                "url": "https://www.sporcle.com/create/published"
+            },
+            {
+                "label": "Quizzes (drafts)",
+                "url": "https://www.sporcle.com/create/drafts"
+            },
+            {
+                "label": "Quizzes (private)",
+                "url": "https://www.sporcle.com/create/private"
+            },
+            {
+                "label": "Entertainment quizzes (contributed)",
+                "url": "https://www.sporcle.com/create/contributed/?category=2"
+            },
+            {
+                "label": "Entertainment quizzes (published)",
+                "url": "https://www.sporcle.com/create/published/?category=2"
+            },
+            {
+                "label": "Entertainment quizzes (drafts)",
+                "url": "https://www.sporcle.com/create/drafts/?category=2"
+            },
+            {
+                "label": "Entertainment quizzes (private)",
+                "url": "https://www.sporcle.com/create/private/?category=2"
             }
         ]
     }
