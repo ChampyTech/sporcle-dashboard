@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Quiz Creation",
+        "links": [
+            {
+                "label": "Quiz management dashboard",
+                "url": "https://www.sporcle.com/create/"
+            },
+            {
+                "label": "Quizzes (contributed)",
+                "url": "https://www.sporcle.com/create/contributed/"
+            }
+        ]
+    }
+]
