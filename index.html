@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://champytech.github.io/general-files/simpleWebsite.css">
+    <title>Sporcle Dashboard</title>
+</head>
+
+<body>
+    <h1>Sporcle Dashboard</h1>
+
+    <div class="description">
+        <span class="descriptionHeading">Info</span>
+        A collection of useful and direct links to help you explore and manage your Sporcle profile more easily. All
+        links point to specific sections of your Sporcle account — just replace the username with yours.
+        <br><br>
+        <span class="tag">How to use</span> Just enter your username and you will get all your Sporcle profile links!
+        <br><br>
+        <span class="tag">Contributing</span> <a href="https://github.com/ChampyTech/sporcle-dashboard">Open a
+            pull request or an issue.</a> Even small contributions are welcome!
+    </div>
+
+    <form class="input-group" onsubmit="handleUsername(event)">
+        <input type="text" id="username" placeholder="Enter your GitHub username">
+        <button>Generate links</button>
+    </form>
+
+    <div id="links"></div>
+
+    <hr>
+
+    <footer>
+        <p>Made with ❤️ by <b><a href="https://github.com/ChampyTech" target="_blank">ChampyTech</a></b></p>
+    </footer>
+
+    <button id="themeToggleButton">Dark mode</button>
+
+    <script src="script.js"></script>
+    <script src="https://champytech.github.io/general-files/themeToggleButton.js"></script>
+</body>
+
+</html>
