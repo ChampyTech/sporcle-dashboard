@@ -117,6 +117,70 @@
             {
                 "label": "Just For Fun quizzes (private)",
                 "url": "https://www.sporcle.com/create/private/?category=8"
+            },
+            {
+                "label": "Language quizzes (contributed)",
+                "url": "https://www.sporcle.com/create/contributed/?category=7"
+            },
+            {
+                "label": "Language quizzes (published)",
+                "url": "https://www.sporcle.com/create/published/?category=7"
+            },
+            {
+                "label": "Language quizzes (drafts)",
+                "url": "https://www.sporcle.com/create/drafts/?category=7"
+            },
+            {
+                "label": "Language quizzes (private)",
+                "url": "https://www.sporcle.com/create/private/?category=7"
+            },
+            {
+                "label": "Literature quizzes (contributed)",
+                "url": "https://www.sporcle.com/create/contributed/?category=5"
+            },
+            {
+                "label": "Literature quizzes (published)",
+                "url": "https://www.sporcle.com/create/published/?category=5"
+            },
+            {
+                "label": "Literature quizzes (drafts)",
+                "url": "https://www.sporcle.com/create/drafts/?category=5"
+            },
+            {
+                "label": "Literature quizzes (private)",
+                "url": "https://www.sporcle.com/create/private/?category=5"
+            },
+            {
+                "label": "Miscellaneous quizzes (contributed)",
+                "url": "https://www.sporcle.com/create/contributed/?category=14"
+            },
+            {
+                "label": "Miscellaneous quizzes (published)",
+                "url": "https://www.sporcle.com/create/published/?category=14"
+            },
+            {
+                "label": "Miscellaneous quizzes (drafts)",
+                "url": "https://www.sporcle.com/create/drafts/?category=14"
+            },
+            {
+                "label": "Miscellaneous quizzes (private)",
+                "url": "https://www.sporcle.com/create/private/?category=14"
+            },
+            {
+                "label": "Movies quizzes (contributed)",
+                "url": "https://www.sporcle.com/create/contributed/?category=10"
+            },
+            {
+                "label": "Movies quizzes (published)",
+                "url": "https://www.sporcle.com/create/published/?category=10"
+            },
+            {
+                "label": "Movies quizzes (drafts)",
+                "url": "https://www.sporcle.com/create/drafts/?category=10"
+            },
+            {
+                "label": "Movies quizzes (private)",
+                "url": "https://www.sporcle.com/create/private/?category=10"
             }
         ]
     }
